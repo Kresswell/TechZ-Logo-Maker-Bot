@@ -9,10 +9,10 @@ API_ID = ""
 API_HASH = ""
 
 # Get it from @Botfather in Telegram.
-BOT_TOKEN = ""
+BOT_TOKEN = "6346455521:AAEuYWb9fcxA88-2lGv3Wvsb7t-DYFX684E"
 
 # Create Your Own ApiKey From @TechZApiBot To Use Logo Api
-API_KEY = ""
+API_KEY = "TTFOCW"
 
 
 # Don't Change Anything Below This Line
