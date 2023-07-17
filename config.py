@@ -5,8 +5,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Get it from my.telegram.org
-API_ID = ""
-API_HASH = ""
+API_ID = "26949669"
+API_HASH = "4f1a7b9ea16310ecbabe42434da7a155"
 
 # Get it from @Botfather in Telegram.
 BOT_TOKEN = "6346455521:AAEuYWb9fcxA88-2lGv3Wvsb7t-DYFX684E"
